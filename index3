@@ -1,0 +1,248 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ivan Jenish Website</title>
+<!--mobile apps-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--mobile apps-->
+<!--Custom Theme files-->
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+<link rel="stylesheet" href="css/swipebox.css">
+<!--//Custom Theme files-->
+<!--js-->
+<script src="js/jquery-1.11.1.min.js"></script> 
+<!-- //js -->
+<!--web-fonts-->
+<link href='//fonts.googleapis.com/css?family=Overlock:400,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!--//web-fonts-->
+<!--start-smooth-scrolling-->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>	
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".scroll").click(function(event){		
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+			});
+		});
+</script>
+<!--//end-smooth-scrolling-->
+</head>
+<body>
+	<!--banner-->
+	<div id="home" class="banner">
+		<div class="banner-info">
+			<div class="container">
+				<div class="col-md-4 header-left">
+					<img src="images/pic.JPG" alt=""/>
+				</div>
+				<div class="col-md-8 header-right">
+					<h1><b>Hello.</b></h1>
+					<h1><b>I'm Ivan Jenish<b></h1>
+					<h3>A Soon-to-graduate college student</h3>
+						
+					<ul class="address">
+				
+								<li><h3><br>
+                A Soon-to-graduate college student looking for a career opportunity in a reputable organization that will provide an opportunity to fully utilize my business studies background, 
+                while making a significant contribution to the success of the company
+                </h3></li><br>
+               	<li> <h3>Scroll down to find out more about me or find me on <br>
+									 <b><a href="https://www.linkedin.com/in/ivan-gerald-a1610118b/"> Linkedin </a> 
+						        <a href="mailto:ivanjenishgerald@gmail.com"> Email </a>
+			          </li>
+				
+					</ul>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--//banner-->
+	<!--top-nav-->
+	<div class="top-nav wow">
+		<div class="container">
+			<div class="navbar-header logo">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					Menu
+				</button>
+			</div>
+			
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="menu">
+					<ul class="nav navbar">
+						<li><a href="#about" class="scroll">About</a></li>
+						<li><a href="#education" class="scroll">Education</a></li>
+						<li><a href="#skills" class="scroll">Skills</a></li>
+						<li><a href="Resume.html" target=_blank >Resume</a></li>
+						<li><a href="#contact" class="scroll">Contact</a></li>
+					</ul>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<!--//top-nav-->
+  
+  
+	<!--about-->
+	<div id="about" class="about">
+		<div class="container">
+			<h3 class="title"> About Me</h3>
+			<div class="col-md-12 about-left">
+			<font size="4">
+	<p>I am an enthusiastic college student living in Chennai, India currently doing B.Com with focus in Corporate Secretaryship.</p><br>
+<p>A motivated, efficient, goal oriented and a good team player with a keen interest to acquire new skills and gain practical experience. 
+Have flair for academic subjects related to Corporate Governance, Business Laws and Taxation. 
+Strong in numerical and Databases analysis related fields.</p><br>
+	<p>Apart from Academics, I enjoy playing team sports including Basketball and Football. 
+  I love high altitude trekking and I am very keen on keeping track of various Geopolitical events. </p>
+</font>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	<!--//about-->
+	
+  
+  
+  
+	<!--education-->
+	<div id="education" class="education">
+		<div class="container">
+			<h3 class="title">Education</h3>
+			<div class="work-info"> 
+				<div class="col-md-6 work-left"> 
+					<h4>B. Com (Corporate Secretaryship)</h4>
+				</div>
+				<div class="col-md-6 work-right"> 
+					<h5><span class="glyphicon glyphicon-education"> </span> Loyola College, Chennai</h5>
+					<p>CGPA - 7.2/10 upto 3rd semester</p>
+					<p>Expected Date of Graduation - May 2021 </p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			
+			<div class="work-info"> 
+				<div class="col-md-6 work-right work-right2"> 
+					<h4>Company Secretaryship</h4>
+				</div>
+				<div class="col-md-6 work-left work-left2"> 
+					<p>Completed Foundation level with a score of 276/400.</p>
+					<p>Currently preparing for Executive level Group 1 and 2</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			
+			<div class="work-info"> 
+				<div class="col-md-6 work-left"> 
+					<h4>Standard 12 Exam </h4>
+				</div>
+				<div class="col-md-6 work-right"> 
+					<p>Percentage secured: %</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--//education-->
+  
+  
+  
+  
+	<!--skills-->
+  
+  <div id="skills" class="skills">
+		<div class="container">
+			<h3 class="title">Skills</h3>
+			<div class="col-md-12 about-left">
+			<ul>
+      <li><p>Proficient in Computer Software including MS Office, MS PowerPoint, MS Excel, MS Access</p></li>  
+				<li><p>Corporate Governance, Business Laws and Taxation</p></li>  
+        <li><p>Strong in numerical and databases analysis.</p></li>
+         <li><p>Familiar with Computer Programming using C, MySQL</p></li>
+          <li><p>Account management, Statistics and Analysis, Budget planning and reporting</p></li>
+          <li><p>Great written and verbal communication</p></li>
+          <li><p>Quick to learn any new technology</p></li>
+</ul>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	<!--//skills-->
+	
+  
+  
+	<!--contact -->
+	<div class="welcome contact" id="contact">
+		<div class="container">
+			<h3 class="title">Contact</h3>
+			<div class="contact-row">
+			
+				<div class="col-md-12 about-left">
+					<div class="address-left">
+						<p>Get in touch! Have a query, feedback, want to hire me, or just want to say 'Hi!'? - Feel free to ping me through any of these means 
+							and I shall write back to you as soon as I can. <br>
+						</p>
+					</div>
+					<div class="address-right">
+						<p>Call me :  +91 9100335227 </p>
+						<p>E-mail : <a href="mailto:ivanjenishgerald@gmail.com">ivanjenishgerald@gmail.com</a></p>
+						<p>Linkedin : <a href="https://www.linkedin.com/in/ivan-gerald-a1610118b/">https://www.linkedin.com/in/ivan-gerald-a1610118b/</a></p>
+					</div>
+					<div class="clearfix"></div>
+					
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+  
+  
+  
+  
+	<!--//contact -->
+	<!--footer-->
+	<div class="footer">
+		<div class="container">
+			<p>© 2016 My Resume. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+		</div>
+	</div>
+	<!--//footer-->
+
+
+
+  
+	<!--smooth-scrolling-of-move-up-->
+	<script type="text/javascript">
+		$(document).ready(function() {
+		
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script>
+	<!--//smooth-scrolling-of-move-up-->
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+</body>
+</html>
